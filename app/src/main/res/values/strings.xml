@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Fall-Guard</string>
+    <string name="app_name">SAFELINE</string>
     <string name="welcome_to_splash">Welcome to</string>
 
 
@@ -7,7 +7,7 @@
     <string name="title_home">Home</string>
     <string name="title_metrics">Metrics</string>
     <string name="title_profile">Profile</string>
-    <string name="welcome_starter">Welcome to\nFall-Guard!</string>
+    <string name="welcome_starter">Welcome to\nSAFELINE</string>
     <string name="title_history">History</string>
     <string name="monitoring_activity_home">Monitoring Activity</string>
     <string name="fall_history_metrics">Fall History</string>
