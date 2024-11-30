@@ -2,7 +2,7 @@
 
 ## Hallo Fall-Guard Fellas <3
 
-Selamat datang di dokumentasi proyek **Fall Guard**! 🎉 Proyek ini adalah hasil kolaborasi antara dua mahasiswi dari **Telkom University**, bagian dari **Tim Mobile Development C242-PS251 Bangkit Academy 2024**. Kami mengembangkan aplikasi yang terintegrasi dengan perangkat **IoT** untuk membantu mengurangi risiko keterlambatan pertolongan bagi lansia yang terdeteksi jatuh. 🚶‍♂️💥
+Selamat datang di dokumentasi proyek **SAFELINE**! 🎉 Proyek ini adalah hasil kolaborasi antara dua mahasiswi dari **Telkom University**, bagian dari **Tim Mobile Development C242-PS251 Bangkit Academy 2024**. Kami mengembangkan aplikasi yang terintegrasi dengan perangkat **IoT** untuk membantu mengurangi risiko keterlambatan pertolongan bagi lansia yang terdeteksi jatuh. 🚶‍♂️💥
 
 Tujuan utama aplikasi ini adalah untuk memberikan respons yang cepat dan tepat saat mendeteksi kejadian jatuh, sehingga mempercepat proses pertolongan yang sangat dibutuhkan oleh lansia. 💡
 
