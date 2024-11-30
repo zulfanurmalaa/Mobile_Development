@@ -1,6 +1,6 @@
-# Fall Guard - Dokumentasi Aplikasi Deteksi Jatuh
+# SAFELINE - Dokumentasi Aplikasi Deteksi Jatuh
 
-## Hallo Fall-Guard Fellas <3
+## Hallo SAFELINE Fellas <3
 
 Selamat datang di dokumentasi proyek **SAFELINE**! 🎉 Proyek ini adalah hasil kolaborasi antara dua mahasiswi dari **Telkom University**, bagian dari **Tim Mobile Development C242-PS251 Bangkit Academy 2024**. Kami mengembangkan aplikasi yang terintegrasi dengan perangkat **IoT** untuk membantu mengurangi risiko keterlambatan pertolongan bagi lansia yang terdeteksi jatuh. 🚶‍♂️💥
 
