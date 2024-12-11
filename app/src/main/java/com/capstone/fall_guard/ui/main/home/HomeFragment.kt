@@ -27,8 +27,6 @@ class HomeFragment : Fragment() {
         overrideBackPress()
 
         initCurrentTime()
-
-        setMonitoringView("Berjalan")
         setListeners()
 
         return root
@@ -52,21 +50,18 @@ class HomeFragment : Fragment() {
         val loweredStatus = status.lowercase()
 
         when (loweredStatus) {
-            "berjalan" -> {
                 binding.apply {
                     ivActivityMonitor.setImageResource(R.drawable.ic_walk)
                     tvActivityMonitor.text = status
                 }
             }
 
-            "diam" -> {
                 binding.apply {
                     ivActivityMonitor.setImageResource(R.drawable.ic_idle)
                     tvActivityMonitor.text = status
                 }
             }
 
-            "jatuh" -> {
                 binding.apply {
                     ivActivityMonitor.setImageResource(R.drawable.ic_fall)
                     tvActivityMonitor.text = status

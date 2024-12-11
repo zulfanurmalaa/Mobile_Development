@@ -33,20 +33,6 @@ class MetricsFragment : Fragment() {
         val root: View = binding.root
         overrideBackPress()
 
-        val dummyTimestamp1: Long = System.currentTimeMillis() // Current timestamp
-        val dummyFallHistory1: MutableList<Long> = mutableListOf(
-            dummyTimestamp1 - 60 * 60 * 1000, // 1 hour ago
-            dummyTimestamp1 - 2 * 60 * 60 * 1000 // 2 hours ago
-        )
-
-        val dummyTimestamp2: Long = System.currentTimeMillis() - 24 * 60 * 60 * 1000 // 1 day ago
-        val dummyFallHistory2: MutableList<Long> = mutableListOf(
-            dummyTimestamp2 - 30 * 60 * 1000, // 30 minutes before timestamp2
-            dummyTimestamp2 - 90 * 60 * 1000 // 1.5 hours before timestamp2
-        )
-
-        injectDaySectionHistory(dummyTimestamp1, dummyFallHistory1)
-        injectDaySectionHistory(dummyTimestamp2, dummyFallHistory2)
 
         setListeners()
 
